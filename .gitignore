@@ -1,0 +1,66 @@
+# Environment files
+.env
+config/.env
+*.env
+
+# API credentials
+credentials.json
+youtube_credentials.json
+config/youtube_credentials.json
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual environments
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# Output files
+*.pdf
+reports/
+*.log
+logs/
+
+# Test files
+test_*.py
+debug_*.py
+fixed_*.pdf
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temptoken.json

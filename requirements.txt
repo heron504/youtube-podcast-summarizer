@@ -1,0 +1,19 @@
+# Core dependencies
+requests==2.31.0
+python-dotenv==1.0.0
+schedule==1.2.0
+
+# Google APIs
+google-auth==2.25.2
+google-auth-oauthlib==1.2.0
+google-api-python-client==2.114.0
+
+# PDF generation
+reportlab==4.0.7
+Pillow==10.1.0
+
+# Markdown processing
+markdown==3.5.1
+
+# Email
+secure-smtplib==0.1.1

@@ -1,0 +1,1 @@
+{max_videos_per_channel: 1, max_channels_to_process: 3, days_back_to_fetch: 1, schedule_time: 08:00, pdf_output_dir: reports, log_level: INFO}
